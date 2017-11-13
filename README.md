@@ -1,2 +1,2 @@
 # Grokking-Deep-Learning-Practice
-This repo contains all practices made in the Deep Learning Book form Grokking
+This repo contains all exercises of the Deep Learning Book from Grokking written by Andrew W.Trask
